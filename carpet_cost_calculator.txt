@@ -1,0 +1,1 @@
+Floor.java, Carpet.java and Calculator.java are inter-related files.
